@@ -5,14 +5,16 @@
 <h1 align="center">ParsIT</h1>
 
 <p align="center">
-  Smart digital solutions for modern businesses.
+  Modern Backend, AI & Scalable Systems
 </p>
 
 ---
 
-## 🚀 About Us
+## 🚀 About
 
-ParsIT is a Netherlands-based technology company focused on building modern software solutions, web platforms, and digital products that help businesses grow and scale.
+ParsIT is a Netherlands-based software company focused on building scalable backend systems, modernizing legacy applications, and developing custom AI solutions.
+
+We help companies transform slow, hard-to-maintain systems into reliable, high-performance platforms.
 
 🌐 Website: https://www.parsit.nl/
 
@@ -20,48 +22,73 @@ ParsIT is a Netherlands-based technology company focused on building modern soft
 
 ## 🧩 What We Do
 
-- 🌐 Web Application Development  
-- 🧠 Custom Software Solutions  
-- ☁️ Cloud & DevOps Infrastructure  
-- 📊 System Integration & Automation  
-- 🔧 IT Consulting & Architecture  
+- 🔄 Legacy System Modernization  
+- 🧱 Microservices Architecture  
+- ⚙️ Backend Development (PHP, Python, Go)  
+- ⚡ Real-Time Systems & WebSocket Platforms  
+- 🤖 Custom AI Solutions (Local & Private)  
+- 🚗 EV Charging & OCPP Systems  
 
 ---
 
 ## 🛠️ Technologies
 
-We work with modern and reliable technologies:
+We work with modern, production-ready technologies:
 
-- PHP
-- Python
-- JavaScript / TypeScript  
-- React / Next.js  
-- Node.js    
-- Docker  
-- AWS / Azure / GCP  
+- PHP (Symfony, Laravel)
+- Python (AI, automation)
+- Go (high-performance services)
+- React / TypeScript  
+- Docker & Containerized Environments  
+- AWS (EC2, RDS, Load Balancing)  
+- Redis, RabbitMQ, PostgreSQL  
+
+---
+
+## 📦 Products
+
+We build tools and platforms for real-world use cases:
+
+- ⚡ **OCPP Simulator**  
+  A developer tool for simulating EV charging stations and testing OCPP communication.
+
+- 🤖 **AI Chatbot Platform** *(Coming Soon)*  
+  Custom AI models that run locally and integrate with business workflows.
+
+- 📱 **Finance Tracker App** *(Free)*  
+  A simple mobile app to track income and expenses.
+
+- 🛒 **E-commerce Platform**  
+  Scalable and customizable online store solution.
 
 ---
 
 ## 📌 Projects
 
-Selected work and case studies will be added soon:
+Selected projects and case studies will be published soon:
 
-- Enterprise web platforms  
-- Internal business tools  
-- Automation systems  
-- Scalable web applications  
+- High-traffic backend systems  
+- Real-time platforms (WebSocket-based)  
+- EV charging infrastructure systems  
+- Internal tools and automation platforms  
 
 ---
 
 ## 🤝 Contact
 
-- 🌐 Website: https://www.parsit.nl/  
-- 📧 Email: info@parsit.nl  
-- 📍 Netherlands  
+- 🌐 https://www.parsit.nl  
+- 📧 info@parsit.nl  
+- 📍 Rotterdam, Netherlands  
 
 ---
 
-## 💡 About
+## 💡 Philosophy
 
-We help companies transform ideas into reliable digital products.  
-Fast, scalable, and built for the future.
+We build systems that are:
+
+- Reliable  
+- Scalable  
+- Maintainable  
+
+No over-engineering. No unnecessary complexity.  
+Just solid engineering that works.
