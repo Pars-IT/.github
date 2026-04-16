@@ -2,7 +2,7 @@
   <img src="https://www.parsit.nl/img/logo.png" alt="ParsIT Logo" width="180"/>
 </p>
 
-<h1 align="center">ParsIT</h1>
+<h1 align="center">Pars IT</h1>
 
 <p align="center">
   Modern Backend, AI & Scalable Systems
