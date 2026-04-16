@@ -31,17 +31,19 @@ We help companies transform slow, hard-to-maintain systems into reliable, high-p
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Core Expertise
 
-We work with modern, production-ready technologies:
+We use proven technologies to build scalable, high-performance systems:
 
-- PHP (Symfony, Laravel)
-- Python (AI, automation)
-- Go (high-performance services)
-- React / TypeScript  
-- Docker & Containerized Environments  
-- AWS (EC2, RDS, Load Balancing)  
-- Redis, RabbitMQ, PostgreSQL  
+- **Backend:** PHP (Symfony, Laravel), Python, Go  
+- **Frontend:** React, TypeScript, Vue.js  
+- **Architecture:** Microservices, distributed systems  
+- **Databases:** MySQL, PostgreSQL  
+- **Caching & Messaging:** Redis, RabbitMQ, Elasticsearch  
+- **Infrastructure:** Docker, AWS, CI/CD pipelines  
+- **AI:** Custom AI & LLM solutions (local and private)  
+
+Focused on performance, reliability, and long-term maintainability.
 
 ---
 
